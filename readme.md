@@ -1,2 +1,1 @@
-## Write notes and explanations about your game here.
-It  going to be good.
+Silly billy doing silly billy things.
